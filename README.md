@@ -1,9 +1,9 @@
 # myLeiterepository
-####Methods Class
+#### Methods Class
 
 
-####Programming in Java
+#### Programming in Java
 
-####Data Structure
+#### Data Structure
 
 
