@@ -1,2 +1,8 @@
 # myLeiterepository
-For Methods Class
+####Methods Class
+
+####Programming in Java
+
+####Data Structure
+
+
