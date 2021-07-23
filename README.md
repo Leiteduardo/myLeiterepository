@@ -31,7 +31,7 @@ Closing: Chat storm: one thing I can do well/or one thing I need help with.
 Time: 1 minute
 
 
-
+[https://docs.google.com/document/d/1aTR96BZ1q-VPefvHVMMfz-fWeorK18cu8OBLkpeJHwI/edit?usp=sharing]
 
 
 
