@@ -1,6 +1,9 @@
 # myLeiterepository
+
 ## Methods Class
-Lesson Objective: To use boolean logic in Java to //test for triangles.
+
+## Lesson Plan
+### Lesson Objective: To use boolean logic in Java to //test for triangles.
 
 Aim: How to write code that will test whether a //shape is a triangle.
 
@@ -26,6 +29,8 @@ Time: 25 min
 
 Closing: Chat storm: one thing I can do well/or one thing I need help with.
 Time: 1 minute
+
+
 
 
 
