@@ -1,5 +1,33 @@
 # myLeiterepository
-#### Methods Class
+## Methods Class
+Lesson Objective: To use boolean logic in Java to //test for triangles.
+
+Aim: How to write code that will test whether a //shape is a triangle.
+
+Warm up: Jot down one requirement to form a //triangle- 1 min
+Turn and talk- share your idea with your partner- //1 min
+Whole class share aloud-  3 min
+Time: 5 min
+
+Lesson Content: Discussion about the basic //characteristics of a triangle;
+Different types of triangles;
+Proof of a triangle
+How to use an if statement to prove that a shape //with 3 //sides is a triangle. 
+Time: 10 minutes
+
+Lesson Activity: 
+Given 3 different shapes, test whether they form //triangles:
+a-  Write code that tests the conditions for a //triangle;
+ 15 min
+b- Volunteers share their work.
+ 10 min
+
+Time: 25 min
+
+Closing: Chat storm: one thing I can do well/or one thing I need help with.
+Time: 1 minute
+
+
 
 
 #### Programming in Java
