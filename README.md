@@ -33,7 +33,7 @@ Time: 1 minute
 ## Live Coding Experience
 
 ### This was done in Snap.
-I was not able to copy the code here because the language is block baxed.
+I was not able to copy the code here because the language is block based.
 [https://docs.google.com/document/d/1aTR96BZ1q-VPefvHVMMfz-fWeorK18cu8OBLkpeJHwI/edit?usp=sharing]
 
 
