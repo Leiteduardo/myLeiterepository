@@ -33,8 +33,8 @@ Time: 1 minute
 ### Live Coding Experience
 
 #### This was done in Snap.
-I was not able to copy the code here because the language is block based.
-https://docs.google.com/document/d/1aTR96BZ1q-VPefvHVMMfz-fWeorK18cu8OBLkpeJHwI/edit?usp=sharing
+I was not able to copy the code here because the language is block based. So here is the link:
+###### https://docs.google.com/document/d/1aTR96BZ1q-VPefvHVMMfz-fWeorK18cu8OBLkpeJHwI/edit?usp=sharing
 
 
 
@@ -43,7 +43,7 @@ https://docs.google.com/document/d/1aTR96BZ1q-VPefvHVMMfz-fWeorK18cu8OBLkpeJHwI/
 ##### This is one of the first projects that I completed. I completed this in a group with Chris and Peter. Our interaction was great, and I learned a lot from the two of them. Indeed, I could not have completed this project without their insightful contributions.
 
 ##### The project was completed on Replit. 
-https://replit.com/@leite24/workcsci70900-Leiteduardo#02/Mancala.java
+###### https://replit.com/@leite24/workcsci70900-Leiteduardo#02/Mancala.java
 
 
 ## Data Structure
