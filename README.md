@@ -41,6 +41,7 @@ https://docs.google.com/document/d/1aTR96BZ1q-VPefvHVMMfz-fWeorK18cu8OBLkpeJHwI/
 ## Programming in Java
 ### The Mancala
 ##### This is one of the first projects that I completed. I completed this in a group with Chris and Peter. Our interaction was great, and I learned a lot from the two of them. Indeed, I could not have completed this project without their insightful contributions.
+https://replit.com/@leite24/workcsci70900-Leiteduardo#02/Mancala.java
 
 
 #### Data Structure
