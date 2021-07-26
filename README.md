@@ -50,9 +50,9 @@ https://replit.com/@leite24/workcsci70900-Leiteduardo#02/Mancala.java
 #### The Node Project
 ##### The Node project consists of a Driver file, a Llist file, and a Node file. We used the Driver file to perform several different operations on the Node; adding differnt elements to different locations as well as removing elements.
 ##### These are the links to each of thefiles used in the Node Project:
-(https://replit.com/@leite24/workcsci70900-Leiteduardo#DS/Node/Driver.java)
-(https://replit.com/@leite24/workcsci70900-Leiteduardo#DS/Node/Llist.java)
-(https://replit.com/@leite24/workcsci70900-Leiteduardo#DS/Node/Node.java)
+[https://replit.com/@leite24/workcsci70900-Leiteduardo#DS/Node/Driver.java]
+[https://replit.com/@leite24/workcsci70900-Leiteduardo#DS/Node/Llist.java]
+[https://replit.com/@leite24/workcsci70900-Leiteduardo#DS/Node/Node.java]
 
 
 
